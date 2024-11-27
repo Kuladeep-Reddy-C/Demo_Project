@@ -7,6 +7,7 @@ git init -b main -> for main
 git status -> for checking the status of the repo
 
 git add FILENAME -> add to the staging area
+git add .-> adds all the files into staging area
 
 git commit -> to commit without message
 
@@ -20,3 +21,5 @@ git commit -a -m message -> Stages the file and commits
 
 git diff -> Track the changes in the file in the working directory
 git diff --staged-> Track the changes in the file in the staging area
+
+Readme.md -> markdown
