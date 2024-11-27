@@ -1,0 +1,9 @@
+i am revising the git cmds for my projects coming up
+
+
+git init  -> for master
+git init -b main -> for main 
+
+git status -> for checking the status of the repo
+
+git add FILENAME
