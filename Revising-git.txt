@@ -7,3 +7,11 @@ git init -b main -> for main
 git status -> for checking the status of the repo
 
 git add FILENAME
+
+git commit -> to commit without message
+
+:qa! to exit the commit
+
+git commit -m OUR COMMIT message
+
+git log -> see the history i tihnk 
