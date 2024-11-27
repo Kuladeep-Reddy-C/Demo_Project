@@ -14,4 +14,6 @@ git commit -> to commit without message
 
 git commit -m OUR COMMIT message
 
-git log -> see the history i tihnk 
+git log -> see the history i think 
+
+git commit -a -m message
