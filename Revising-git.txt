@@ -23,3 +23,17 @@ git diff -> Track the changes in the file in the working directory
 git diff --staged-> Track the changes in the file in the staging area
 
 Readme.md -> markdown
+
+git --cached FILENAME -> to remove a file which is in staging area
+
+git clone LINK -> clone a project
+
+echo "# write something " >> README.md -> this echo the entire thing in the 
+quotes into the README.md file / appends the message into the file 
+
+cat README.md used to see the content of the file 
+
+
+git branch -M main -> creates a branch called mian to the master
+
+ssh-keygen -o -> this makes no login to push
