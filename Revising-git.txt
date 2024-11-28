@@ -37,3 +37,11 @@ cat README.md used to see the content of the file
 git branch -M main -> creates a branch called mian to the master
 
 ssh-keygen -o -> this makes no login to push
+
+git remote -v -> this is used to see the origin linked to 
+origin  https://github.com/Kuladeep-Reddy-C/Demo_Project.git (fetch)
+origin  https://github.com/Kuladeep-Reddy-C/Demo_Project.
+
+git tag -> shows the version of the git repo
+
+git tag -a v1.0 -m "version 1 release" -> tags the present working directory
